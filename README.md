@@ -10,7 +10,7 @@
 
 | 分区 | 链接 |
 |-|-|
-| 市北内卷合作社 | https://github.com/liubanlaobanzhang/fun/blob/master/area1 |
+| 市北内卷合作社 | https://github.com/liubanlaobanzhang/fun/blob/main/area1 |
 | 65中2020级6班 | 未开放 |
 
 
