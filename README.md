@@ -1,7 +1,7 @@
 <div align='center'>
 
-# 🌐 梗-Collection
-#### `如你所见，这是个收集梗的地方。`
+# 🌐 `梗-Collection`
+#### 如你所见，这是个收集梗的地方。
 
 </div>
 
